@@ -1,0 +1,15 @@
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\bin\Debug\net6.0\ex001_console.exe
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\bin\Debug\net6.0\ex001_console.deps.json
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\bin\Debug\net6.0\ex001_console.runtimeconfig.json
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\bin\Debug\net6.0\ex001_console.dll
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\bin\Debug\net6.0\ex001_console.pdb
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.csproj.AssemblyReference.cache
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.AssemblyInfoInputs.cache
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.AssemblyInfo.cs
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.csproj.CoreCompileInputs.cache
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.dll
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\refint\ex001_console.dll
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.pdb
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ex001_console.genruntimeconfig.cache
+C:\Users\user.000\Documents\Geek brains\C#\Урок 1\Examples2\ex001_console\obj\Debug\net6.0\ref\ex001_console.dll
